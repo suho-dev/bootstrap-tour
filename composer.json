@@ -18,5 +18,8 @@
 				"*.css"
 			]
         }
+    },
+    "require" : {
+        "robloach/component-installer": "*"
     }
 }
