@@ -11,11 +11,11 @@
     "license": "Apache-2.0",
     "extra": {
         "component": {
-			"scripts": [ "**.js"  ],
-			"styles" : [ "**.css" ],
+			"scripts": [ "build/js/*.js"  ],
+			"styles" : [ "build/css/**.css" ],
 			"files"  : [
-				"**.js",
-				"**.css"
+				"build/js/*.js",
+				"build/css/**.css"
 			]
         }
     },
