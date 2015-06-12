@@ -12,10 +12,10 @@
     "extra": {
         "component": {
             "scripts": [
-                "build/js/boostrap-tour-standalone.js"
+                "build/js/bootstrap-tour-standalone.js"
             ],
 			"files"  : [
-				"build/js/boostrap-tour-standalone.js",
+				"build/js/bootstrap-tour-standalone.js",
 				"build/css/bootstrap-tour-standalone.css"
 			]
         }
