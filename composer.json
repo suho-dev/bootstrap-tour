@@ -2,7 +2,6 @@
     "name": "lukedenton_sorich87/bootstrap-tour",
     "description": "Quick and easy way to build your product tours with Bootstrap Popovers.",
     "type":"component",
-    "url":"https://github.com/lukedenton/bootstrap-tour.git",
     "homepage": "http://bootstraptour.com/",
     "keywords": [
         "bootstrap",
@@ -14,10 +13,13 @@
             "scripts": [
                 "build/js/bootstrap-tour-standalone.js"
             ],
-			"files"  : [
-				"build/js/bootstrap-tour-standalone.js",
-				"build/css/bootstrap-tour-standalone.css"
-			]
+            "styles": [
+                "build/css/bootstrap-tour-standalone.css"
+            ],
+            "files"  : [
+                "build/js/bootstrap-tour-standalone.js",
+                "build/css/bootstrap-tour-standalone.css"
+            ]
         }
     },
     "require" : {
