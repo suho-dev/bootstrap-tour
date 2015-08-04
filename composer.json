@@ -11,11 +11,14 @@
     "extra": {
         "component": {
             "styles": [
-                "build/css/bootstrap-tour-standalone.css"
+                "build/css/bootstrap-tour-standalone.css",
+                "build/css/bootstrap-tour.css"
             ],
             "files"  : [
                 "build/js/bootstrap-tour-standalone.js",
-                "build/css/bootstrap-tour-standalone.css"
+                "build/css/bootstrap-tour-standalone.css",
+                "build/js/bootstrap-tour.js",
+                "build/css/bootstrap-tour.css"
             ]
         }
     },
