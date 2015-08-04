@@ -1,7 +1,6 @@
 {
     "name": "lukedenton_sorich87/bootstrap-tour",
     "type":"component",
-    "url":"https://github.com/sorich87/bootstrap-tour.git",
     "homepage": "http://bootstraptour.com/",
     "description": "Show people how to use your web site",
     "keywords": [
@@ -11,10 +10,13 @@
     "license": "Apache-2.0",
     "extra": {
         "component": {
-			"files"  : [
-				"*.js",
-				"*.css"
-			]
+             "styles": [
++                "build/css/bootstrap-tour-standalone.css"
++            ],
++            "files"  : [
++                "build/js/bootstrap-tour-standalone.js",
++                "build/css/bootstrap-tour-standalone.css"
++            ]
         }
     },
     "require" : {
