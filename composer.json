@@ -20,7 +20,7 @@
             "files"  : [
                 "build/js/bootstrap-tour-standalone.js",
                 "build/js/bootstrap-tour.js",
-                "build/css/bootstrap-tour-standalone.css"
+                "build/css/bootstrap-tour-standalone.css",
                 "build/css/bootstrap-tour.css"
             ]
         }
